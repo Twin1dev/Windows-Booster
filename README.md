@@ -43,10 +43,9 @@ No.
 
 Yes! plenty! I (Twin1) am the only one working on it so it could take some time for another update. but yes of course!
 
-## License
 
  
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 
 
