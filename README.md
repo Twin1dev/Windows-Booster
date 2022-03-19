@@ -42,10 +42,3 @@ No.
 #### Will there be updates in the future?
 
 Yes! plenty! I (Twin1) am the only one working on it so it could take some time for another update. but yes of course!
-
-
- 
-
-
-
-
