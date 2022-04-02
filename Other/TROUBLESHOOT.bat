@@ -1,3 +1,3 @@
 cd ..
-Windows-Booster.py
+Windows-Booster.exe
 pause
