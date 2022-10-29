@@ -1,4 +1,4 @@
-
+# THIS IS DISCONTINUED! I DONT WANT TO WORK ON POINTLESS PROJECTS 
 # Windows Booster 
 
 Windows Booster is a latency booster and soon to be a fps booster for games!
